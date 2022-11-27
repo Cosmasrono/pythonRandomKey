@@ -14,3 +14,6 @@ uppercaseletter2=chr(random.randint(65, 90))
 password=uppercaseletter1 + uppercaseletter2
 password=shuffle(password)
 print('Ouch! you want password,,,cool here is it' + " " +password)
+
+
+ 
